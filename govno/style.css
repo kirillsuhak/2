@@ -1,0 +1,17 @@
+body{
+    background: black;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 700px;
+    height: 300px;
+}
+h2{
+    text-align: center;
+    color: white;
+}
